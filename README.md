@@ -65,7 +65,7 @@ A reference list of Java frameworks, libraries and software.
     - [Web Crawling](#web-crawling)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
-    - [Awesome Lists](#awesome-lists)
+    - [MISC Lists](#MISC-lists)
     - [Communities](#communities)
     - [Frontends](#frontends)
     - [Influential Books](#influential-books)
@@ -908,17 +908,17 @@ A reference list of Java frameworks, libraries and software.
 
 # Resources
 
-## Awesome Lists
+## MISC Lists
 
-*Awesome lists related to the Java & JVM ecosystem.*
+*MISC lists related to the Java & JVM ecosystem.*
 
-* [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
-* [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
-* [Awesome JVM](https://github.com/deephacks/awesome-jvm)
-* [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
-* [Awesome REST](https://github.com/marmelab/awesome-rest)
-* [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
-* [ciandcd](https://github.com/ciandcd/awesome-ciandcd)
+* [MISC Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
+* [MISC JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
+* [MISC JVM](https://github.com/deephacks/awesome-jvm)
+* [MISC Microservices](https://github.com/mfornos/awesome-microservices)
+* [MISC REST](https://github.com/marmelab/awesome-rest)
+* [MISC Selenium](https://github.com/christian-bromann/awesome-selenium)
+* [ci-cd](https://github.com/ciandcd/awesome-ciandcd)
 * [Useful Java Links](https://github.com/Vedenin/useful-java-links)
 
 ## Communities
