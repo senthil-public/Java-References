@@ -65,7 +65,6 @@ A reference list of Java frameworks, libraries and software.
     - [Web Crawling](#web-crawling)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
-    - [MISC Lists](#MISC-lists)
     - [Communities](#communities)
     - [Frontends](#frontends)
     - [Influential Books](#influential-books)
