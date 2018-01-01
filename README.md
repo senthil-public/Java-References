@@ -908,7 +908,7 @@ A reference list of Java frameworks, libraries and software.
 
 # Resources
 
-## MISC Lists
+## MISC-lists
 
 *MISC lists related to the Java & JVM ecosystem.*
 
